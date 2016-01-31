@@ -1,4 +1,4 @@
-# experimentaldynamicwebsites
+# PHP WEBSITE EXPERIMENT
 
 Trial and Experimentation with PHP
 - Currently in the process of setting up webserver (using APACHE XAMPP) and FTP Client (FileZilla)
