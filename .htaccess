@@ -1,0 +1,5 @@
+<!-- tells server to use index.php as index page for the site -->
+DirectoryIndex index.php
+<!-- treat html files as PHP code
+AddHandler application/x-httpd-php .html .htm
+-->
